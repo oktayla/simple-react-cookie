@@ -1,0 +1,17 @@
+{
+  "name": "simple-react-cookie",
+  "version": "1.0.0",
+  "description": "A React.js library for handling cookies simply and easily.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/oktayla/simple-react-cookie.git"
+  },
+  "keywords": [
+    "react",
+    "cookie",
+    "cookies"
+  ],
+  "author": "Oktay Kopcak",
+  "license": "MIT"
+}
